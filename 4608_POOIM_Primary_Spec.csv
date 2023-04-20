@@ -1,0 +1,84 @@
+Property Name,Data Type
+Product ID,STRING
+Seller ID,STRING
+Buyer ID,STRING
+Version,STRING
+Identifiers,GROUPING
+Identifiers/SKU,STRING
+Identifiers/UPC,STRING
+Identifiers/GTIN,STRING
+Identifiers/EAN,STRING
+Identifiers/ECCN,STRING
+Identifiers/ISBN,STRING
+Identifiers/ISSN,STRING
+Identifiers/JAN,STRING
+Change Type,STRING
+Validation Result,GROUPING
+Validation Result/State,STRING
+Validation Result/Code,STRING
+Category,STRING
+Seller Category,STRING
+Title,GROUPING
+Title/Language,STRING
+Title/Text,STRING
+Description,GROUPING
+Description/Language,STRING
+Description/Text,STRING
+Lead Time (days),INTEGER
+Manufacturer,STRING
+Seller Provided Manufacturer,STRING
+Manufacturer Item ID,STRING
+Brand,STRING
+Country Of Origin,STRING
+Harmonized System Code,NUMBER
+Attributes,GROUPING
+Attributes/ID,STRING
+Attributes/Value,STRING
+Attributes/UoM,STRING
+Keywords,GROUPING
+Keywords/Value,STRING
+UoM,STRING
+Packaging,GROUPING
+Packaging/UoM,STRING
+Packaging/Size,STRING
+Images,GROUPING
+Images/Name,STRING
+Images/Url,URL
+Certificates,GROUPING
+Certificates/Code,STRING
+Certificates/Name,STRING
+Certificates/Url,URL
+Attachments,GROUPING
+Attachments/Name,STRING
+Attachments/Url,URL
+Hazard Items,GROUPING
+Hazard Items/ClassID,STRING
+Hazard Items/Code,STRING
+Hazard Items/Name,STRING
+Hazard Items/Description,STRING
+Variant Group ID,STRING
+Variant Attribute IDs,STRING
+Creation Date,DATE
+Created By,STRING
+MIM Enriched,STRING
+Enrichment Time Stamp,STRING
+Commodity Type,STRING
+Is Chemical,STRING
+Job Id,STRING
+Manufacturer Website Address,URL
+Product Model,STRING
+Marketing Information,STRING
+Product Line,STRING
+Product Series,STRING
+Product Type,STRING
+Environmentally Friendly,STRING
+Environmental Certification,STRING
+TAA Compliant,STRING
+Limited Warranty,STRING
+Short Description,STRING
+Technical Description,STRING
+FeatureBullet,STRING
+Similar,STRING
+Log Process Time,STRING
+Package Contents,STRING
+Sent To GFK,STRING

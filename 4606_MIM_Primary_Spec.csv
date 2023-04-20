@@ -1,0 +1,133 @@
+Property Name,Data Type
+Product Key,STRING
+Manufacturer,STRING
+Manufacturer Part Number,STRING
+Manufacturer Website Address,URL
+Brand Name,STRING
+Product Model,STRING
+Product Name,STRING
+Marketing Information,STRING
+Country of Origin,STRING
+UNSPSC,STRING
+Category Name,STRING
+Breadcrumb,STRING
+ProductID,STRING
+Description,STRING
+Keywords,STRING
+Main,URL
+FrontMaximum,URL
+RearMaximum,URL
+LeftMaximum,URL
+RightMaximum,URL
+TopMaximum,URL
+BottomMaximum,URL
+Alternate-Image1,URL
+Alternate-Image2,URL
+Alternate-Image3,URL
+Alternate-Image4,URL
+Alternate-Image5,URL
+Alternate-Image6,URL
+Alternate-Image7,URL
+Alternate-Image8,URL
+Alternate-Image9,URL
+Alternate-Image10,URL
+Alternate-Image11,URL
+Alternate-Image12,URL
+Alternate-Image13,URL
+Alternate-Image14,URL
+Alternate-Image15,URL
+Alternate-Image16,URL
+Alternate-Image17,URL
+Alternate-Image18,URL
+Alternate-Image19,URL
+Alternate-Image20,URL
+Alternate-Image21,URL
+Alternate-Image22,URL
+Alternate-Image23,URL
+Alternate-Image24,URL
+Alternate-Image25,URL
+Alternate-Image26,URL
+Alternate-Image27,URL
+Alternate-Image28,URL
+Alternate-Image29,URL
+Alternate-Image30,URL
+Alternate-Image31,URL
+Alternate-Image32,URL
+Alternate-Image33,URL
+Alternate-Image34,URL
+Alternate-Image35,URL
+Alternate-Image36,URL
+Alternate-Image37,URL
+Alternate-Image38,URL
+Alternate-Image39,URL
+Alternate-Image40,URL
+Tour,STRING
+User-Manual,STRING
+Brochure,STRING
+Assembly-Instructions,STRING
+Energy-Guide,STRING
+Life-Style,URL
+Jack-Pack,URL
+Animated-GIF,URL
+Screenshot1,URL
+Screenshot2,URL
+Screenshot3,URL
+Screenshot4,URL
+Screenshot5,URL
+Screenshot6,URL
+Line-Art,URL
+Collections,URL
+Labeled-Images,URL
+Out-of-Package,URL
+Hero Shot,URL
+Zoom-Closeup,URL
+Finish,URL
+Frame,URL
+Shell,URL
+Swatch,URL
+Additional-pdf1,URL
+Additional-pdf2,URL
+Additional-pdf3,URL
+Additional-pdf4,URL
+Additional-pdf5,URL
+Educational-Brochure,URL
+360-main-view,URL
+Additional-pdf6,URL
+Additional-pdf7,URL
+Additional-pdf8,URL
+Additional-pdf9,URL
+Additional-pdf10,URL
+Product-Fiche,URL
+Certifications,URL
+COSHH-Sheet,URL
+Product Line,STRING
+Product Series,STRING
+Product Condition,STRING
+Packaged Quantity,STRING
+Package Type,STRING
+Product Type,STRING
+Package Contents,STRING
+Environmentally Friendly,STRING
+Environmental Certification,STRING
+TAA Compliant,STRING
+Limited Warranty,STRING
+Short Description,STRING
+Technical Description,STRING
+SKU,STRING
+UPC,STRING
+GTIN,STRING
+EAN,STRING
+ISBN,STRING
+JAN,STRING
+FeatureBullet,STRING
+Option,STRING
+Upsell,STRING
+Similar,STRING
+In-Package,STRING
+Creation Date,DATE
+Created By,STRING
+Suggested Categories,GROUPING
+Suggested Categories/Name,STRING
+Suggested Categories/Confidence Score,STRING
+UNSPSC22,STRING
+Feedback,FLAG
