@@ -1,0 +1,15 @@
+Text classification:
+1. User-Manual: OCR type pdf. Images are more in this document.
+2. Manufacturer-Brochure: OCR type pdf. Images are more in this document.
+3. Additional-pdf1: Editable type PDF
+4. Additional-pdf2: Editable type PDF
+5. Additional-pdf3: Editable type PDF. Data is in Tabular format.
+6. Additional-pdf4: OCR type pdf. Some data is in Tabular format.
+7. Additional-pdf5: OCR type pdf. Data is in the form of images, diagrams, graphs, tables.
+8. Additional-pdf6: OCR type pdf.
+9. Additional-pdf7: OCR type pdf. The text, images are in the form of Powerpoint presentation.
+10. Additional-pdf8: OCR type pdf. The text, images are in the form of Powerpoint presentation.
+11. Additional-pdf9: OCR type pdf. The text, images are in the form of Powerpoint presentation.
+
+Input to the model: For text classification models like logistic regression, naive bayes, universal sentence encoder, bert we can consider User-Manual and Manufacturer-Brochure as the input since more amount of text is present in the PDF.
+Other documents like Additional-Pdfs4 to 9 will be useful for LSTM models since large amount of OCR data is present in it.
