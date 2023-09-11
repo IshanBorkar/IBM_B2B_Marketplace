@@ -1,1 +1,1 @@
-# IBM_B2B_Marketplace
+# IBM_B2B
